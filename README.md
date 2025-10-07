@@ -1,2 +1,2 @@
-# hyperhash-engine-private-node
-Hyperhash Private Node Engine: Publicly deployable hyper node for mainnet.
+# Hyperhash Private Node Engine
+Dockerized hyper node for anyone to deploy, running Bitcoin Core and gRPC client (Go) for mainnet block propagation.
